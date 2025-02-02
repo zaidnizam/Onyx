@@ -4,7 +4,7 @@ Guide to use:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/wp-theme-builder-palette.git your-theme-name
+git clone https://github.com/zaidnizam/Onyx.git your-theme-name
 cd your-theme-name
 ```
 
